@@ -1,0 +1,27 @@
+{
+  "name": "alfred-steno",
+  "version": "1.0.0",
+  "description": "Search steno.fm for podcasts",
+  "license": "MIT",
+  "repository": "nathangathright/alfred-steno",
+  "author": {
+    "name": "Nathan Gathright",
+    "email": "nathan.gathright@gmail.com",
+    "url": "https://nathangathright.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "purge": "rm media/*"
+  },
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.11.0",
+    "xml2js": "^0.4.23"
+  }
+}
