@@ -61,7 +61,7 @@ function parseXml(xml) {
 	alfy.output([{
         title: result.title[0],
         subtitle: `Open in Steno.fm ✏️`,
-        arg: basedFeed,
+        arg: `${basedFeed},${alfy.input}`,
         icon: {
             path: iconPath
         }

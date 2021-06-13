@@ -42,7 +42,7 @@ function download(filename, url, callback) {
 			uid: result.collectionId,
 			title: result.collectionName,
 			subtitle: `Open in Steno.fm ✏️`,
-			arg: basedFeed,
+			arg: `${basedFeed},${feed}`,
             icon: {
 				path: iconPath
 			}

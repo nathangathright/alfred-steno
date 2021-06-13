@@ -8,11 +8,37 @@
 	<string>Tools</string>
 	<key>connections</key>
 	<dict>
+		<key>1908569A-829D-4A98-AB41-53065986578D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>22C16424-ED75-4099-8AD4-4643CBD26E34</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>1E3A557C-4E61-4C2A-B437-4CE7A8A2D282</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>1E8D91AB-7C76-4BC9-84E7-E48E51C82444</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2FB48D44-C628-4D05-BF0C-E025586E4D64</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A5AEC1AF-274C-4741-8F4A-279D851FB715</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -35,7 +61,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>22C16424-ED75-4099-8AD4-4643CBD26E34</string>
+				<string>1908569A-829D-4A98-AB41-53065986578D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -45,7 +71,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>1E3A557C-4E61-4C2A-B437-4CE7A8A2D282</string>
+				<string>BD9B1A28-8FF0-4223-8412-5DD0622B7A1C</string>
 				<key>modifiers</key>
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
@@ -55,7 +81,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>A5AEC1AF-274C-4741-8F4A-279D851FB715</string>
+				<string>2FB48D44-C628-4D05-BF0C-E025586E4D64</string>
 				<key>modifiers</key>
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
@@ -65,11 +91,24 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>71370693-A32E-4119-BFBA-3A2CED8381C0</string>
+				<string>6907FD28-4E2D-4D8C-9292-C541736A2713</string>
 				<key>modifiers</key>
 				<integer>262144</integer>
 				<key>modifiersubtext</key>
-				<string>Open in Google Podcasts</string>
+				<string>Open RSS Feed 📡</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6907FD28-4E2D-4D8C-9292-C541736A2713</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>71370693-A32E-4119-BFBA-3A2CED8381C0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -78,7 +117,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>27B3AC08-E660-4BD0-8363-042150A31DD9</string>
+				<string>1908569A-829D-4A98-AB41-53065986578D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -88,17 +127,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>22C16424-ED75-4099-8AD4-4643CBD26E34</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>1E3A557C-4E61-4C2A-B437-4CE7A8A2D282</string>
+				<string>BD9B1A28-8FF0-4223-8412-5DD0622B7A1C</string>
 				<key>modifiers</key>
 				<integer>1048576</integer>
 				<key>modifiersubtext</key>
@@ -108,7 +137,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>A5AEC1AF-274C-4741-8F4A-279D851FB715</string>
+				<string>2FB48D44-C628-4D05-BF0C-E025586E4D64</string>
 				<key>modifiers</key>
 				<integer>524288</integer>
 				<key>modifiersubtext</key>
@@ -118,11 +147,24 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>71370693-A32E-4119-BFBA-3A2CED8381C0</string>
+				<string>6907FD28-4E2D-4D8C-9292-C541736A2713</string>
 				<key>modifiers</key>
 				<integer>262144</integer>
 				<key>modifiersubtext</key>
-				<string>Open in Google Podcasts</string>
+				<string>Open RSS Feed 📡</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BD9B1A28-8FF0-4223-8412-5DD0622B7A1C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1E3A557C-4E61-4C2A-B437-4CE7A8A2D282</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -286,7 +328,7 @@ fi</string>
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://steno.fm/show/{query}</string>
+				<string>https://steno.fm/show/{var:split1}</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -300,10 +342,48 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>delimiter</key>
+				<string>,</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>1908569A-829D-4A98-AB41-53065986578D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>https://steno.fm/show/{var:split1}</string>
+				<key>title</key>
+				<string>Added to Clipboard</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>1E8D91AB-7C76-4BC9-84E7-E48E51C82444</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>autopaste</key>
 				<false/>
 				<key>clipboardtext</key>
-				<string>https://steno.fm/show/{query}</string>
+				<string>https://steno.fm/show/{var:split1}</string>
 				<key>ignoredynamicplaceholders</key>
 				<false/>
 				<key>transient</key>
@@ -319,21 +399,17 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
+				<key>delimiter</key>
+				<string>,</string>
+				<key>trimarguments</key>
 				<true/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>https://steno.fm/show/{query}</string>
-				<key>title</key>
-				<string>Added to Clipboard</string>
+				<key>variableprefix</key>
+				<string>split</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
+			<string>alfred.workflow.utility.split</string>
 			<key>uid</key>
-			<string>1E8D91AB-7C76-4BC9-84E7-E48E51C82444</string>
+			<string>BD9B1A28-8FF0-4223-8412-5DD0622B7A1C</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -345,7 +421,7 @@ fi</string>
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>{var:development}/show/{query}</string>
+				<string>{var:development}/show/{var:split1}</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -359,12 +435,29 @@ fi</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>delimiter</key>
+				<string>,</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>2FB48D44-C628-4D05-BF0C-E025586E4D64</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://podcasts.google.com/feed/{query}</string>
+				<string>{var:split2}</string>
 				<key>utf8</key>
 				<true/>
 			</dict>
@@ -424,31 +517,55 @@ fi</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>,</string>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>6907FD28-4E2D-4D8C-9292-C541736A2713</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>1908569A-829D-4A98-AB41-53065986578D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>225</integer>
+		</dict>
 		<key>1E3A557C-4E61-4C2A-B437-4CE7A8A2D282</key>
 		<dict>
 			<key>xpos</key>
-			<integer>650</integer>
+			<integer>680</integer>
 			<key>ypos</key>
-			<integer>480</integer>
+			<integer>305</integer>
 		</dict>
 		<key>1E8D91AB-7C76-4BC9-84E7-E48E51C82444</key>
 		<dict>
 			<key>xpos</key>
-			<integer>795</integer>
+			<integer>825</integer>
 			<key>ypos</key>
-			<integer>480</integer>
+			<integer>305</integer>
 		</dict>
 		<key>22C16424-ED75-4099-8AD4-4643CBD26E34</key>
 		<dict>
 			<key>xpos</key>
-			<integer>650</integer>
+			<integer>680</integer>
 			<key>ypos</key>
-			<integer>355</integer>
+			<integer>195</integer>
 		</dict>
 		<key>27B3AC08-E660-4BD0-8363-042150A31DD9</key>
 		<dict>
@@ -457,37 +574,58 @@ fi</string>
 			<key>note</key>
 			<string>OneUpdater</string>
 			<key>xpos</key>
-			<integer>650</integer>
+			<integer>680</integer>
 			<key>ypos</key>
-			<integer>205</integer>
+			<integer>60</integer>
+		</dict>
+		<key>2FB48D44-C628-4D05-BF0C-E025586E4D64</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>445</integer>
 		</dict>
 		<key>4AB7BC00-5DC5-47E9-9686-6A0EE5B84899</key>
 		<dict>
 			<key>xpos</key>
-			<integer>55</integer>
+			<integer>45</integer>
 			<key>ypos</key>
-			<integer>245</integer>
+			<integer>60</integer>
+		</dict>
+		<key>6907FD28-4E2D-4D8C-9292-C541736A2713</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>555</integer>
 		</dict>
 		<key>71370693-A32E-4119-BFBA-3A2CED8381C0</key>
 		<dict>
 			<key>xpos</key>
-			<integer>650</integer>
+			<integer>680</integer>
 			<key>ypos</key>
-			<integer>735</integer>
+			<integer>525</integer>
 		</dict>
 		<key>A5AEC1AF-274C-4741-8F4A-279D851FB715</key>
 		<dict>
 			<key>xpos</key>
-			<integer>650</integer>
+			<integer>680</integer>
 			<key>ypos</key>
-			<integer>605</integer>
+			<integer>415</integer>
 		</dict>
 		<key>B4EECEF6-1DE8-4AF8-B223-966B729CB1C7</key>
 		<dict>
 			<key>xpos</key>
-			<integer>55</integer>
+			<integer>45</integer>
 			<key>ypos</key>
-			<integer>735</integer>
+			<integer>525</integer>
+		</dict>
+		<key>BD9B1A28-8FF0-4223-8412-5DD0622B7A1C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>620</integer>
+			<key>ypos</key>
+			<integer>335</integer>
 		</dict>
 	</dict>
 	<key>variables</key>
@@ -498,7 +636,7 @@ fi</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>0.0.2</string>
+	<string>0.0.3</string>
 	<key>webaddress</key>
 	<string>https://alfred.steno.fm</string>
 </dict>
