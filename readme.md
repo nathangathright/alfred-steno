@@ -13,7 +13,7 @@ _You will need the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) to e
     * Type `feed` followed by a RSS feed to search by URL
 2. Once you have a result:
     * Press <kbd>Return</kbd> to open in Steno.fm
-    * Press <kbd>⌘</kbd> + <kbd>Return</kbd> to copy the URL
+    * Press <kbd>Command</kbd> + <kbd>Return</kbd> to copy the URL
     * Press <kbd>Option</kbd> + <kbd>Return</kbd> to open on locahost
     * Press <kbd>Control</kbd> + <kbd>Return</kbd> to open the RSS feed
 
