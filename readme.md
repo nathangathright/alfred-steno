@@ -11,11 +11,10 @@ _You will need the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) to e
 1. Look up a podcast:
     * Type `steno` followed by a query to search by title
     * Type `feed` followed by a RSS feed to search by URL
-2. Once you have a result:
-    * Press <kbd>Return</kbd> to open in Steno.fm
-    * Press <kbd>Command</kbd> + <kbd>Return</kbd> to copy the URL
-    * Press <kbd>Option</kbd> + <kbd>Return</kbd> to open on locahost
-    * Press <kbd>Control</kbd> + <kbd>Return</kbd> to open the RSS feed
+2. Once you’ve selected a podcast, you can:
+    * Open in production (Steno.fm)
+    * Open in devlopment (localhost)
+    * Open the RSS feed
 
 #### Limitations
 If a podcast is not listed in the Apple Podcasts directory, it will not appear in search results.

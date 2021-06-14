@@ -41,7 +41,6 @@ function download(filename, url, callback) {
 		return {
 			uid: result.collectionId,
 			title: result.collectionName,
-			subtitle: `Open in Steno.fm ✏️`,
 			arg: `${basedFeed},${feed}`,
             icon: {
 				path: iconPath
