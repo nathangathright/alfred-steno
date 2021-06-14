@@ -1,4 +1,4 @@
-# Podcast Search for Steno.fm
+# Steno.fm Search for Alfred
 
 Search for podcasts on Steno.fm from Alfred
 
