@@ -10,10 +10,10 @@ _You will need the [Alfred Powerpack](https://www.alfredapp.com/powerpack/) to e
 ## Usage
 1. Look up a podcast:
     * Type `steno` followed by a query to search by title
-    * Type `feed` followed by a RSS feed to search by URL
+    * Type `feed` followed by an RSS feed to search by URL
 2. Once you’ve selected a podcast, you can:
     * Open in production (Steno.fm)
-    * Open in devlopment (localhost)
+    * Open in development (localhost)
     * Open the RSS feed
 
 #### Limitations
