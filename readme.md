@@ -2,6 +2,8 @@
 
 Search for podcasts on Steno.fm from Alfred
 
+![screen recording of workflow](demo.gif)
+
 ## Installation
 **<a download href="https://github.com/nathangathright/alfred-steno/releases/latest/download/alfred-steno.alfredworkflow">Download and install the latest release</a>** 
 
